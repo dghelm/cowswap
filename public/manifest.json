@@ -17,8 +17,9 @@
     }
   ],
   "orientation": "portrait",
-  "name": "CowSwap",
-  "short_name": "CowSwap",
+  "name": "CowSwap UNOFFICIAL",
+  "short_name": "CowSwap UNOFFICIAL",
   "start_url": ".",
-  "theme_color": "#ff784a"
+  "theme_color": "#ff784a",
+  "skylink": "AQBbOjbtJjCyQ9zWM689XoAam-mZChVwx7n0Y4US-x1zRA"
 }

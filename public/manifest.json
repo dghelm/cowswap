@@ -19,6 +19,7 @@
   "orientation": "portrait",
   "name": "CowSwap UNOFFICIAL",
   "short_name": "CowSwap UNOFFICIAL",
+  "description": "A trading interface built on Gnosis Protocol v2",
   "start_url": ".",
   "theme_color": "#ff784a",
   "skylink": "AQBbOjbtJjCyQ9zWM689XoAam-mZChVwx7n0Y4US-x1zRA"
